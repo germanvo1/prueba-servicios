@@ -1,6 +1,6 @@
 @font-face{font-display:fallback;font-family:Louis;font-style:normal;font-weight:normal;src:url(../fonts/LouisGlobal2-Reg.otf) }
 @font-face{font-display:fallback;font-family:Louis;font-weight:bold;src:url(../fonts/LouisGlobal2-Bold.otf) }
-@font-face{font-display:fallback;font-family:Louis;font-weight:900;src:url(../fonts/LouisGlobal2-Heavy.otf) }
+/*@font-face{font-display:fallback;font-family:Louis;font-weight:900;src:url(../fonts/LouisGlobal2-Heavy.otf) }*/
 
 body {
   font-family: 'Louis', serif;
@@ -64,6 +64,7 @@ small.card-title {
   padding-top: 0;
 }
 
+/* Section Recommendations */
 #recommendations {
   margin-bottom: 2rem;
 }
@@ -76,7 +77,6 @@ small.card-title {
   width: 200px;
   border: .08px solid #B6862D;
 }
-
 
 .media, .media-middle {
   margin: 2rem 16rem 0 7rem;
@@ -147,15 +147,14 @@ small.card-title {
   color: #b6862d;
 }
 
-#travel-tips dl {
-  list-style:none;
-  padding-top: 10px;
+#travel-tips ul {
+  list-style: none;
+  padding: 1rem 0;
 }
 
 p.small{
   font-size: 0.7rem;
 }
-
 
 /* If the screen size is 768px wide or less */
 @media only screen and (max-width: 768px) {
