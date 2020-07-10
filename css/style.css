@@ -38,7 +38,7 @@ small.card-title {
 }
 
 #commitment #background-commitment {
-  background-image: url(../img/Imagen_Comp.jpg);
+  background-image: url(../img/Imagen_Comp.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 52%;
@@ -103,7 +103,7 @@ small.card-title {
 
 #background-maintenance {
   min-height: 8rem;
-  background-image: url(../img/Imagen_Taller.jpg);
+  background-image: url(../img/Imagen_Taller.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 30%;
@@ -111,7 +111,7 @@ small.card-title {
 
 /* Section Save fuel */
 #backgroud-save-fuel {
-  background-image: url(../img/Imagen_AI_Gasolina.jpg);
+  background-image: url(../img/Imagen_AI_Gasolina.webp);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -137,7 +137,7 @@ small.card-title {
 
 #background-emergency {
   min-height: 8rem;
-  background-image: url(../img/solicitando-auxilio.jpg);
+  background-image: url(../img/solicitando-auxilio.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 30%;
